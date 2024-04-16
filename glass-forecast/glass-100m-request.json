@@ -1,0 +1,3 @@
+https://api.stormglass.io/v2/weather/point?lat=9.419&lng=106.104&params=windSpeed100m&source=noaa,sg
+
+Authorization: b4a98b4a-f252-11ee-bd26-0242ac130002-b4a98bcc-f252-11ee-bd26-0242ac130002
